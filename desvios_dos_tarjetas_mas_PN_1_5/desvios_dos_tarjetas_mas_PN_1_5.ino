@@ -1,4 +1,4 @@
-
+// esto es un comentario para enseñar a mi padre como se usa git
 //de version cuatro ala cinco se implementa multifuncion virtual para evitar comando delay en intermitentes Paso a nivel
  
 #include <Wire.h>                           //inserta libreria del Bus I2C para manejar dos tarjetas de servos//
